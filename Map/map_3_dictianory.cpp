@@ -14,7 +14,7 @@ int main()
                	 {"clever","raffiniert"} , {"strang","seltsam"}
 	           } );
 	           
-	           /*
+	           /**
 			     English   German
                  car       Auto
                  clever    raffiniert
@@ -26,7 +26,7 @@ int main()
                  strange   fremed
                  trait     Merkmal
 			   
-			   */
+			   **/
 	           
 	    
 	cout << left << setw(10) << "English" << "German" << endl;
